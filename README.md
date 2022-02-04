@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Yaro / Taebong_Yoo&fontSize=45" />
+
 ## Yaro / Taebong Yoo
 
 안녕하세요! 🙋‍♂️ 개발자 Yaro 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
@@ -51,6 +53,3 @@
   <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
-
-
-
