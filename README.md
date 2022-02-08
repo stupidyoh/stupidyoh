@@ -59,8 +59,10 @@
 
 ## Waka
 [![wakatime](https://wakatime.com/badge/user/b5c7f37d-6dd6-45db-9b05-83b1b4dd17e9.svg)](https://wakatime.com/@b5c7f37d-6dd6-45db-9b05-83b1b4dd17e9)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <br />
 <br />
 <br />
