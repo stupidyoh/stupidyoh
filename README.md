@@ -60,8 +60,12 @@
 ## Waka
 [![wakatime](https://wakatime.com/badge/user/b5c7f37d-6dd6-45db-9b05-83b1b4dd17e9.svg)](https://wakatime.com/@b5c7f37d-6dd6-45db-9b05-83b1b4dd17e9)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div >
+  <img style="display:inline;" width="50%" src="https://wakatime.com/share/@Yaro/ce8a7aed-c20a-4714-b92b-11c534a89a93.png" />
+  <img style="display:inline;" width="50%" src="https://wakatime.com/share/@Yaro/c44b343e-c5bd-4dbf-b957-85f67d785dc7.png" />
+</div>
+
+
 
 <br />
 <br />
