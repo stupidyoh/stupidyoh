@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Yaro / Taebong_Yoo&fontSize=45" />
-
 ## Yaro / Taebong Yoo
 
 안녕하세요! 🙋‍♂️ 개발자 Yaro 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
@@ -53,20 +51,6 @@
   <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
-<br />
-<br />
-<br />
-
-## Waka
-[![wakatime](https://wakatime.com/badge/user/b5c7f37d-6dd6-45db-9b05-83b1b4dd17e9.svg)](https://wakatime.com/@b5c7f37d-6dd6-45db-9b05-83b1b4dd17e9)
-
-<div >
-  <img style="display:inline;" width="50%" src="https://wakatime.com/share/@Yaro/ce8a7aed-c20a-4714-b92b-11c534a89a93.png" />
-  <img style="display:inline;" width="50%" src="https://wakatime.com/share/@Yaro/c44b343e-c5bd-4dbf-b957-85f67d785dc7.png" />
-</div>
-
-
-
 <br />
 <br />
 <br />
