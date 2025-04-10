@@ -1,54 +1,36 @@
-## 참고사항
-아래 내용은 git 관련 과제용으로 작성된 내용입니다.
+# Hi there! 🤖
 
-## startupcode / 스타트업코드
-안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
-<br />
-<br />
-<br />
-## My values
-😎 모든것은 재미있어야 합니다<br />
-👌 안전성을 겸비한 속도를 지향 합니다<br />
-🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
-<br />
-<br />
-<br />
-## How i work
-저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다. 어려운 프로덕트를 성공 시키는 경험또한 재미있고 기술을 쉽게 풀어내는 것 또한 재미있습니다 :) 그리고 무조건 약속한 시간을 지키기 위해 노력하며 단순히 약속한 시간을 지키는것이 아닌 최대한 완성도를 높이기 위해서 노력합니다!
-저는 장비에 관심이 많아서 모든 장비가 세팅되어 있는 환경을 좋아합니다 :) 그래서 자택하는걸 좋아하지만 가끔은 카페에서 일하는것도 좋습니다.
-<br />
-<br />
-<br />
+인공지능의 새로운 가능성을 탐구하는 컴퓨터비전 & 생성형 AI 개발자입니다. 
+
+## My Work Philosophy ✨
+
+한 가지 기술과 문제를 이해하기 위해 깊이 있게 파고들며, 모르는 것에 대해서는 끈기 있게 접근합니다. 단순히 문제를 해결하는 것을 넘어 근본적인 이해를 추구합니다. 
+
+## How I Work 🚀
+
+- 새로운 도전을 두려워하지 않고, 복잡한 문제를 세심하게 파헤치는 것을 즐깁니다.
+- 팀원들과 지속적으로 소통하며, 서로의 관점을 존중하고 피드백을 통해 함께 성장합니다.
+- 깊이 있는 탐구와 협업을 통해 문제 해결 능력을 꾸준히 발전시켜 왔습니다.
+
+## My Values 💡
+
+- 기술은 끊임없이 학습하고 진화해야 할 대상입니다.
+- 열린 마음으로 다양한 관점을 받아들이고, 건설적인 비판을 환영합니다.
+- 개발은 혼자 하는 것이 아니라 함께 만들어가는 과정이라고 믿습니다.
+
+
 ## Skills
-#### I use it often.
+#### I use it often.(TODO)
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black">
 </div>
-#### I've used it before.
+
+#### I've used it before.(TODO)
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br />
 <br />
 <br />
 
-Copyright ⓒ startupcode yaro
+**Always open to interesting collaborations and challenging projects!** 🤝
